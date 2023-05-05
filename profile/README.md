@@ -1,10 +1,10 @@
 # Software Engineer Upgrade
 Keeps learning about software engineering skills for make our keep an update and strenghts skills 🚀 
 - [Backend Springboot](#backend-springboot)
-- Backend Go
-- Frontend (Java Android, React.js
-- DevOps (Jenkins, Docker, Kubernetes,Prometheus, Grafana, Serverless
-- Architect (Monolitih, Modular Monolith,Microservices, EDD, Tech Document
+- Backend **Go**
+- Frontend **(Java Android, React.js)**
+- DevOps **(Jenkins, Docker, Kubernetes,Prometheus, Grafana, Serverless)**
+- Architect **(Monolitih, Modular Monolith,Microservices, EDD, Tech Document)**
 
 
 ### Peoples
