@@ -12,7 +12,10 @@ Keeps learning about software engineering skills for make our keep an update and
 |--|--|--|--|--|
 | [Aldi Lukito](https://github.com/aldiCovo)| Java, Spring, Springboot | React.js | Docker | Monolith|
 
-
+## Articles
+|URLs|
+|--|
+| [denitiawan.medium.com](https://denitiawan.medium.com) |
 
 ## Backend Springboot
 ### STEP 1 : Getting Started for Springboot
