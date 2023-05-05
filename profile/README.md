@@ -1,4 +1,4 @@
-## step-1: getting-started-&-springboot-integration
+## STEP 1 : Getting Started for Springboot
 
 |Topic|link|
 |--|--|
@@ -27,14 +27,13 @@
 |learn springboot admin monitoring|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-admin-monitoring/)|
 |learn springboot jenkins deployment|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-jenkins-deployment/)|
 
-
-## step-2: make-one-project-backend-(monolith)
+## STEP 2 : Make backend using springboot as a template for bussines project (implement all springboot already learning)
 
 |Topic|link|
 |--|--|
 |learn springboot backend template|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-2/learn-springboot-backend-template)| 
 
-## step-3: getting-started-&-springboot-microservices
+## STEP 3: Getting started for Springboot Microservices
 
 |Topic|link|
 |--|--|
