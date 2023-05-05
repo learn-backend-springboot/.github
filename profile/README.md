@@ -9,7 +9,7 @@ Keeps learning about software engineering skills for make our keep an update and
 |--|--|--|--|--|
 | [Deni Setiawan](https://github.com/denitiawan)| Java, Springboot, Go | Java Android, React.js | Jenkins CI/CD,  Docker, Kubernetes, Prometheus, Grafana, Serverless | Monolith, Modular Monolith, Microservices, EDD, Tech Document|
 
-|Member |Backend| Frontend | DevOps | Architect |
+| |Backend| Frontend | DevOps | Architect |
 |--|--|--|--|--|
 | [Aldi Lukito](https://github.com/aldiCovo)| Java, Spring, Springboot | React.js | Docker | Monolith|
 
