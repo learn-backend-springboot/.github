@@ -2,16 +2,16 @@
 Keeps learning about software engineering skills for make our keep an update and strenghts skills 🚀 
 - [Backend Springboot](#backend-springboot)
 - Backend Go
+- Frontend (Java Android, React.js
+- DevOps (Jenkins, Docker, Kubernetes,Prometheus, Grafana, Serverless
+- Architect (Monolitih, Modular Monolith,Microservices, EDD, Tech Document
 
 
 ### Peoples
-|Reviewer |Backend| Frontend | DevOps | Architect |
-|--|--|--|--|--|
-| [Deni Setiawan](https://github.com/denitiawan)| Java, Springboot, Go | Java Android, React.js | Jenkins CI/CD,  Docker, Kubernetes, Prometheus, Grafana, Serverless | Monolith, Modular Monolith, Microservices, EDD, Tech Document|
-
-| |Backend| Frontend | DevOps | Architect |
-|--|--|--|--|--|
-| [Aldi Lukito](https://github.com/aldiCovo)| Java, Spring, Springboot | React.js | Docker | Monolith|
+|Name| * |
+|--|--|
+| [Deni Setiawan](https://github.com/denitiawan)| Reviewer |
+| [Aldi Lukito](https://github.com/aldiCovo) | Learner |
 
 ### Learning logs
 |Name| learning logs url|
