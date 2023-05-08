@@ -4,6 +4,7 @@ Learning Springboot for createing backend service
 
 |  |  |
 |--|--|
+|Author| [Deni Setiawan](https://github.com/denitiawan) |
 |Contributors | [Aldi Lukito](https://github.com/aldiCovo) |
 |Learning Logs | [https://github.com/software-engineer-upgrade/.github/tree/main/member/aldi](https://github.com/software-engineer-upgrade/.github/tree/main/member/aldi)|
 |Articles | [https://denitiawan.medium.com](https://denitiawan.medium.com) |
