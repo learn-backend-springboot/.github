@@ -2,11 +2,11 @@
 Learning Springboot for createing backend service
 - [Backend Springboot](#backend-springboot)
 
-### Peoples
-|Name| * |
+### Contributors
+|Name| Articles |
 |--|--|
-| [Deni Setiawan](https://github.com/denitiawan)| Reviewer |
-| [Aldi Lukito](https://github.com/aldiCovo) | Learner |
+| [Deni Setiawan](https://github.com/denitiawan)| [Medium](https://denitiawan.medium.com) |
+| [Aldi Lukito](https://github.com/aldiCovo) | - |
 
 ### Learning logs
 |Name| learning logs url|
