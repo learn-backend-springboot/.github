@@ -2,24 +2,11 @@
 Learning Springboot for createing backend service
 - [Backend Springboot](#backend-springboot)
 
-### Articles
-|Name| Url |
+|  |  |
 |--|--|
-| Medium.com | [Link](https://denitiawan.medium.com) |
-
-
-### Contributors
-|Name|
-|--|
-| [Aldi Lukito](https://github.com/aldiCovo) |
-
-### Learning logs
-|Name| learning logs url|
-|--|--|
-| Aldi lukito |[https://github.com/software-engineer-upgrade/.github/tree/main/member/aldi](https://github.com/software-engineer-upgrade/.github/tree/main/member/aldi)|
-
-
-
+|Contributors | [Aldi Lukito](https://github.com/aldiCovo) |
+|Learning Logs | [https://github.com/software-engineer-upgrade/.github/tree/main/member/aldi](https://github.com/software-engineer-upgrade/.github/tree/main/member/aldi)|
+|Articles | [https://denitiawan.medium.com](https://denitiawan.medium.com) |
 
 ## Backend Springboot
 ### STEP 1 : Getting Started & Learning Springboot
