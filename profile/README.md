@@ -43,7 +43,6 @@ Learning Springboot for createing backend service
 |learn springboot docker|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-docker/)|
 |learn springboot springactuator|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-springactuator/)|
 |learn springboot admin monitoring|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-admin-monitoring/)|
-|learn springboot jenkins deployment|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-jenkins-deployment/)|
 
 ### STEP 2 : Make backend using springboot as a template project (implement all springboot have you learning)
 
