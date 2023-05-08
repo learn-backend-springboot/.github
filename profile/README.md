@@ -33,14 +33,15 @@ Learning Springboot for createing backend service
 |learn springboot liquibase|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-liquibase/)|
 |learn springboot mysql nativequery|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-mysql-nativequery/)|
 |learn springboot unitest|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-unitest/)|
-|learn springboot docker|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-docker/)|
 |learn springboot springactuator|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-springactuator/)|
 |learn springboot admin monitoring|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-admin-monitoring/)|
 
-### STEP 2 : Make backend using springboot as a template project (implement all springboot have you learning)
+### STEP 2 : Final Project create backend service using Springboot 
+`app.properties` `maven profile` `banner` `common function` `mysql` `spring security` `jwt` `secured` `cors` `unitest` `liquibase` `jpa audit` `logback` `spring actuator` `springboot admin monitoring`    
 
 |Topic|link|
 |--|--|
-|learn springboot backend template|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-2/learn-springboot-backend-template)| 
+|learn springboot backend|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-2/learn-springboot-backend)| 
+|learn springboot admin|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-2/learn-springboot-backend-admin)| 
 
 
