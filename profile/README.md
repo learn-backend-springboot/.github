@@ -43,6 +43,6 @@ Learning Springboot for createing backend service
 |Topic|link|
 |--|--|
 |learn springboot backend|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-2/learn-springboot-backend)| 
-|learn springboot admin|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-2/learn-springboot-backend-admin)| 
+|learn springboot admin|[repository](https://github.com/learn-backend-springboot/learning-springboot/tree/main/step-2/learn-springboot-admin)| 
 
 
