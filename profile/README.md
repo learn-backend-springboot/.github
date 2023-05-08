@@ -11,7 +11,7 @@ Learning Springboot for createing backend service
 
 ## Backend Springboot
 ### STEP 1 : Getting Started & Learning Springboot
-|Topic|Repository|article|
+|Topic|Aldi Repository|article|
 |--|--|--|
 |learn springboot initializer|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-initializer/)|
 |learn springboot banner|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-banner/)|
