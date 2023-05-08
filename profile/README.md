@@ -1,11 +1,6 @@
 # Software Engineer Upgrade
 Keeps learning about software engineering skills for make our keep an update and strenghts skills 🚀 
 - [Backend Springboot](#backend-springboot)
-- Backend **Go**
-- Frontend **(Java Android, React.js)**
-- DevOps **(Jenkins, Docker, Kubernetes,Prometheus, Grafana, Serverless)**
-- Architect **(Monolitih, Modular Monolith,Microservices, EDD, Tech Document)**
-
 
 ### Peoples
 |Name| * |
@@ -56,21 +51,4 @@ Keeps learning about software engineering skills for make our keep an update and
 |--|--|
 |learn springboot backend template|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-2/learn-springboot-backend-template)| 
 
-### STEP 3: Getting started for Springboot Microservices
-
-|Topic|link|
-|--|--|
-|learn microservice gateway routing|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-3/learn-microservice-gateway-routing/)|
-|learn microservice gateway filter|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-3/learn-microservice-gateway-filter/)|
-|learn microservice gateway cors|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-3/learn-microservice-gateway-cors/)|
-|learn microservice gateway ratelimmiter|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-3/learn-microservice-gateway-ratelimmiter/)|
-|learn microservice gateway circuitbreaker|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-3/learn-microservice-gateway-circuitbreaker/)|
-|learn microservice gateway modifyheader|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-3/learn-microservice-gateway-modifyheader/)|
-|learn microservice gateway metric prometheus|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-3/learn-microservice-gateway-metric-prometheus/)|
-|learn microservice gateway redis|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-3/learn-microservice-gateway-redis/)|
-|learn microservice discovery|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-3/learn-microservice-discovery/)|
-|learn microservice auth|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-3/learn-microservice-auth/)|
-|learn microservice transaction|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-3/learn-microservice-transaction/)|
-|learn microservice report|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-3/learn-microservice-report/)|
-|learn microservice email|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-3/learn-microservice-email/)|
 
