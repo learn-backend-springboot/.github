@@ -1,5 +1,5 @@
-# Software Engineer Upgrade
-Keeps learning about software engineering skills for make our keep an update and strenghts skills 🚀 
+# Learn Backend Springboot
+Learning Springboot for createing backend service
 - [Backend Springboot](#backend-springboot)
 
 ### Peoples
@@ -17,7 +17,7 @@ Keeps learning about software engineering skills for make our keep an update and
 
 
 ## Backend Springboot
-### STEP 1 : Getting Started for Springboot
+### STEP 1 : Learn Springboot
 |Topic|link|
 |--|--|
 |learn springboot initializer|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-initializer/)|
@@ -45,7 +45,7 @@ Keeps learning about software engineering skills for make our keep an update and
 |learn springboot admin monitoring|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-admin-monitoring/)|
 |learn springboot jenkins deployment|[repo](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-jenkins-deployment/)|
 
-### STEP 2 : Make backend using springboot as a template for bussines project (implement all springboot already learning)
+### STEP 2 : Make backend using springboot as a template project (implement all springboot have you learning)
 
 |Topic|link|
 |--|--|
