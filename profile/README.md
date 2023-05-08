@@ -20,10 +20,10 @@ Learning Springboot for createing backend service
 |learn springboot profiles|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-profiles/)|
 |learn springboot common functions|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-common-functions/)|
 |learn springboot mysql|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-mysql/)|[article](https://denitiawan.medium.com/create-rest-api-using-springboot-and-mysql-808cdf9e3bdd)|
-|learn springboot postgres|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-postgres/)|
+|learn springboot postgres|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-postgres/)|[article](https://denitiawan.medium.com/create-rest-api-using-springboot-and-postgres-74200db11ae6)|
 |learn springboot elastic|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-elastic/)|
-|learn springboot mongodb|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-mongodb/)|
-|learn springboot redis|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-redis/)|
+|learn springboot mongodb|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-mongodb/)|[mongo](https://towardsdev.com/create-rest-api-using-springboot-and-mongodb-385f981aa3af)|
+|learn springboot redis|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-redis/)|[redis](https://denitiawan.medium.com/create-rest-api-using-springboot-and-redis-3e52e2fa7e16)|
 |learn springboot report excel pdf|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-report-excel-pdf/)|
 |learn springboot springsecurity jwt|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-springsecurity-jwt/)|
 |learn springboot springsecurirty secured role|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-springsecurirty-secured-role/)|
