@@ -31,7 +31,7 @@ Learning Springboot for creating backend service
 |learn springboot springsecurity cors|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-springsecurity-cors/)|
 |learn springboot jpa audit|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-jpa-audit/)|
 |learn springboot logback|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-logback/)|
-|learn springboot liquibase|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-liquibase/)|
+|learn springboot liquibase|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-liquibase/)|[article](https://denitiawan.medium.com/learn-how-to-migration-database-using-liquibase-with-mysql-database-on-springboot-project-4c7bd963f6de)|
 |learn springboot mysql nativequery|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-mysql-nativequery/)|
 |learn springboot unitest|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-unitest/)|
 |learn springboot springactuator|[repository](https://github.com/software-engineer-upgrade/learning-springboot/tree/main/step-1/learn-springboot-springactuator/)|
